@@ -1,0 +1,5 @@
+username, surname, email, password, confirm_password
+John, Johnson, jj@mail.com, 12345, 12345
+Steve, Stevenson, ss@mail.com, 23456,23456
+Olena, Olenivna, oo@mail.com, 34567, 34567
+Olya, Ivanova, oi@mail.com, 45678, 45678

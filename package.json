@@ -1,0 +1,13 @@
+{
+  "name": "elearning",
+  "version": "1.0.0",
+  "description": "Project for eLearning platform",
+  "main": "index.js",
+  "scripts": {
+    "api-tests-uat": "newman run eLearning-Platform.postman_collection.json"
+  },
+  "author": "",
+  "dependencies": {
+    "newman": "^5.0.1"
+  }
+}
